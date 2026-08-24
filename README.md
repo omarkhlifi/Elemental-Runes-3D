@@ -161,7 +161,7 @@ public float depthOffset = -0.01f;     // Micro Z-depth step to fix Z-fighting
 
 - [x] **Core Hand Mechanics:** 3D parabolic card fanning and Z-depth stacking.
 - [x] **Deck & Discard Visuals:** Dynamic stack height rendering.
-- [x] **Turn State Machine:** Player and Enemy AI turn cycles.
+- [ ] **Turn State Machine:** Player and Enemy AI turn cycles.
 - [ ] **DOTween Integration:** Replace linear lerps with spring/smooth-damp easing curves.
 - [ ] **Multiplayer Network Support:** Mirror / Unity Netcode for GameObjects backend setup.
 - [ ] **Audio & FX System:** Card slide, draw, and place SFX triggering.
